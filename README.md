@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zied91" alt="zied91" /></a> </p>
 
-- 🌱 I’m currently learning **Rust and Go**
 
 - 📫 How to reach me **ziedkhanfir@proton.me**
 
