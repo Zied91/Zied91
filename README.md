@@ -5,6 +5,7 @@
 
 <h3>Contact:</h3>
 Email: ziedkhanfir@proton.me
+Open to collaborate on full stack or devops projects
 
 
 <h3 align="left">Languages and Tools:</h3>
