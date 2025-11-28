@@ -3,7 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zied91&label=Profile%20views&color=0e75b6&style=flat" alt="zied91" /> </p>
 
-
+<h3>Contact:</h3>
+Email: ziedkhanfir@proton.me
 
 
 <h3 align="left">Languages and Tools:</h3>
